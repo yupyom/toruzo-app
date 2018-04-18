@@ -1,0 +1,43 @@
+#tag MultiImage
+Image drop_your_datasheet_w
+	#tag ImageRepresentation
+		SaveInfo = APHRcwECAQAAAAF4AAAAAAF4AAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAAAAAAAAAAAAAAQkQAAf////8ZZHJvcF95b3VyX2RhdGFzaGVldF93LnBuZwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/////wAAAAAAAAAAAAAAAP////8AAAogY3UAAAAAAAAAAAAAAAAABnRvcnV6bwACADYvOlVzZXJzOnl1cHlvbTpnaXRodWI6dG9ydXpvOmRyb3BfeW91cl9kYXRhc2hlZXRfdy5wbmcADgA0ABkAZAByAG8AcABfAHkAbwB1AHIAXwBkAGEAdABhAHMAaABlAGUAdABfAHcALgBwAG4AZwAPABoADABNAGEAYwBpAG4AdABvAHMAaAAgAEgARAASADRVc2Vycy95dXB5b20vZ2l0aHViL3RvcnV6by9kcm9wX3lvdXJfZGF0YXNoZWV0X3cucG5nABMAAS8AABUAAgAN//8AAAAAAAAAAA==
+		FullPath = /Users/yupyom/github/toruzo/drop_your_datasheet_w.png
+		PartialPath = ..\toruzo\drop_your_datasheet_w.png
+		#tag ImageSpecification
+			Comment = 
+			Device = 31
+			HSize = 500.00
+			Orientation = Any
+			Platform = 15
+			PPI = 72
+			VSize = 250.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+	#tag ImageRepresentation
+		SaveInfo = APHRcwECAQAAAAGGAAAAAAGGAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAAAAAAAAAAAAAAQkQAAf////8cZHJvcF95b3VyX2RhdGFzaGVldF93QDJ4LnBuZwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/////wAAAAAAAAAAAAAAAP////8AAAogY3UAAAAAAAAAAAAAAAAABnRvcnV6bwACADkvOlVzZXJzOnl1cHlvbTpnaXRodWI6dG9ydXpvOmRyb3BfeW91cl9kYXRhc2hlZXRfd0AyeC5wbmcAAA4AOgAcAGQAcgBvAHAAXwB5AG8AdQByAF8AZABhAHQAYQBzAGgAZQBlAHQAXwB3AEAAMgB4AC4AcABuAGcADwAaAAwATQBhAGMAaQBuAHQAbwBzAGgAIABIAEQAEgA3VXNlcnMveXVweW9tL2dpdGh1Yi90b3J1em8vZHJvcF95b3VyX2RhdGFzaGVldF93QDJ4LnBuZwAAEwABLwAAFQACAA3//wAAAAAAAAAA
+		FullPath = /Users/yupyom/github/toruzo/drop_your_datasheet_w@2x.png
+		PartialPath = ..\toruzo\drop_your_datasheet_w@2x.png
+		#tag ImageSpecification
+			Comment = 
+			Device = 31
+			HSize = 500.00
+			Orientation = Any
+			Platform = 15
+			PPI = 144
+			VSize = 250.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+	#tag ImageRepresentation
+		#tag ImageSpecification
+			Comment = 
+			Device = 31
+			HSize = -1.00
+			Orientation = Any
+			Platform = 15
+			PPI = 216
+			VSize = -1.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+End Image
+#tag EndMultiImage

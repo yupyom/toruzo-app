@@ -1,0 +1,16 @@
+#tag FileTypeSet
+	#tag FileType
+		CodeName=ApplicationVndMsExcel2007
+		Extension=.xlsx
+		Flags=&h0
+		MacCreator=XCEL
+		MacType=XLSX
+		Name=application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+		UTI=
+		UTIConformsTo=
+		Description=
+		MimeType=application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+		Imported=True
+	#tag EndFileType
+
+#tag EndFileTypeSet

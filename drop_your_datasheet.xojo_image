@@ -1,0 +1,43 @@
+#tag MultiImage
+Image drop_your_datasheet
+	#tag ImageRepresentation
+		SaveInfo = APHRcwECAQAAAAFwAAAAAAFwAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAAAAAAAAAAAAAAQkQAAf////8XZHJvcF95b3VyX2RhdGFzaGVldC5wbmcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/////wAAAAAAAAAAAAAAAP////8AAAogY3UAAAAAAAAAAAAAAAAABnRvcnV6bwACADQvOlVzZXJzOnl1cHlvbTpnaXRodWI6dG9ydXpvOmRyb3BfeW91cl9kYXRhc2hlZXQucG5nAA4AMAAXAGQAcgBvAHAAXwB5AG8AdQByAF8AZABhAHQAYQBzAGgAZQBlAHQALgBwAG4AZwAPABoADABNAGEAYwBpAG4AdABvAHMAaAAgAEgARAASADJVc2Vycy95dXB5b20vZ2l0aHViL3RvcnV6by9kcm9wX3lvdXJfZGF0YXNoZWV0LnBuZwATAAEvAAAVAAIADf//AAAAAAAAAAA=
+		FullPath = /Users/yupyom/github/toruzo/drop_your_datasheet.png
+		PartialPath = ..\toruzo\drop_your_datasheet.png
+		#tag ImageSpecification
+			Comment = 
+			Device = 31
+			HSize = 500.00
+			Orientation = Any
+			Platform = 15
+			PPI = 72
+			VSize = 250.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+	#tag ImageRepresentation
+		SaveInfo = APHRcwECAQAAAAF+AAAAAAF+AAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAAAAAAAAAAAAAAQkQAAf////8aZHJvcF95b3VyX2RhdGFzaGVldEAyeC5wbmcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/////wAAAAAAAAAAAAAAAP////8AAAogY3UAAAAAAAAAAAAAAAAABnRvcnV6bwACADcvOlVzZXJzOnl1cHlvbTpnaXRodWI6dG9ydXpvOmRyb3BfeW91cl9kYXRhc2hlZXRAMngucG5nAAAOADYAGgBkAHIAbwBwAF8AeQBvAHUAcgBfAGQAYQB0AGEAcwBoAGUAZQB0AEAAMgB4AC4AcABuAGcADwAaAAwATQBhAGMAaQBuAHQAbwBzAGgAIABIAEQAEgA1VXNlcnMveXVweW9tL2dpdGh1Yi90b3J1em8vZHJvcF95b3VyX2RhdGFzaGVldEAyeC5wbmcAABMAAS8AABUAAgAN//8AAAAAAAAAAA==
+		FullPath = /Users/yupyom/github/toruzo/drop_your_datasheet@2x.png
+		PartialPath = ..\toruzo\drop_your_datasheet@2x.png
+		#tag ImageSpecification
+			Comment = 
+			Device = 31
+			HSize = 500.00
+			Orientation = Any
+			Platform = 15
+			PPI = 144
+			VSize = 250.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+	#tag ImageRepresentation
+		#tag ImageSpecification
+			Comment = 
+			Device = 31
+			HSize = -1.00
+			Orientation = Any
+			Platform = 15
+			PPI = 216
+			VSize = -1.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+End Image
+#tag EndMultiImage
