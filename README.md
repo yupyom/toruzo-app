@@ -1,7 +1,7 @@
 # toruzo-app
 Web capture software for macOS
 
-![toruzo_1_2_0](https://raw.githubusercontent.com/yupyom/toruzo-app/media/toruzo_1_2_0.jpg)
+![toruzo_1_2_0](https://raw.githubusercontent.com/yupyom/toruzo-app/master/Resources/toruzo.png)
 
 ## Installation
 
